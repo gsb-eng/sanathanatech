@@ -1,6 +1,6 @@
-  =>  Template Name    : Startup - Startup Website Template
+  =>  Template Name    : Sanathana Tech
 
-  =>  Template Link    : https://htmlcodex.com/startup-website-template
+  =>  Template Link    : https://htmlcodex.com/Sanathana Tech-website-template
 
   =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
 
